@@ -270,7 +270,7 @@
 
 ### 计算机网络实验报告
 
-从交换机、路由器基本配置开始，记录网络拓扑、地址配置及连通性验证。
+包含交换机与路由器基本配置、局域网扩展、VLAN 划分和服务器搭建，记录拓扑、地址配置及连通性验证。
 
 [文件页](https://github.com/2258009564/software-engineering-24-labs/blob/main/materials/networks/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.doc) · [下载 DOC](https://raw.githubusercontent.com/2258009564/software-engineering-24-labs/main/materials/networks/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.doc) · 6.58 MB
 
