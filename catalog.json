@@ -1,0 +1,585 @@
+{
+  "updated": "2026-11-05",
+  "files": [
+    {
+      "course": "java",
+      "title": "实验1：数据类型转换与控制语句",
+      "description": "练习整数除法、类型转换、循环求和与数组统计，熟悉 JDK 开发环境。",
+      "kind": "报告",
+      "path": "materials/java/实验1：数据类型转换与控制语句.doc",
+      "source": "大二上/大二上 java/实验/2404060404-梁震宇-实验1-java.doc",
+      "size": 121856,
+      "sha256": "0e0ec784eaf3d513b0aca923847e3af880c1d94583c0d17cc7d95de642d2b9f1"
+    },
+    {
+      "course": "java",
+      "title": "实验2：类与对象",
+      "description": "以圆和圆柱为例，练习属性、构造方法、对象组合、面积与体积计算。",
+      "kind": "报告",
+      "path": "materials/java/实验2：类与对象.doc",
+      "source": "大二上/大二上 java/实验/2404060404-梁震宇-实验2-java.doc",
+      "size": 141824,
+      "sha256": "e540e3564531044b09ccd90793b0aba0ad7301ba634ce66bf31307f76a80a8c5"
+    },
+    {
+      "course": "java",
+      "title": "实验3：继承的设计与实现",
+      "description": "使用 Person、Student、Teacher 及图形类，练习继承、super 与方法重写。",
+      "kind": "报告",
+      "path": "materials/java/实验3：继承的设计与实现.doc",
+      "source": "大二上/大二上 java/实验/2404060404-梁震宇-实验3-java .doc",
+      "size": 151552,
+      "sha256": "6e9ce129a6840af4582a52ebc986b34847a39fc6440a127d75945cb9f8b02296"
+    },
+    {
+      "course": "java",
+      "title": "实验4：接口、多态与设计模式",
+      "description": "实现图形比较器，按面积和周长排序，并尝试用工厂模式创建图形。",
+      "kind": "报告",
+      "path": "materials/java/实验4：接口、多态与设计模式.doc",
+      "source": "大二上/大二上 java/实验/2404060404-梁震宇-实验4-java.doc",
+      "size": 481792,
+      "sha256": "3bdaad159014ff61eae7d15ae36769642774924f5a21778e02ede94c9b60863a"
+    },
+    {
+      "course": "java",
+      "title": "实验5：线程状态",
+      "description": "练习创建线程、共享数据及 interrupt()，观察线程生命周期。",
+      "kind": "报告",
+      "path": "materials/java/实验5：线程状态.docx",
+      "source": "大二上/大二上 java/实验/2404060404-梁震宇-实验5.docx",
+      "size": 340167,
+      "sha256": "2be809082023529991b631371734ce495a147598518342b8084220451934e763"
+    },
+    {
+      "course": "java",
+      "title": "实验6：线程同步与联合",
+      "description": "模拟排队买票，练习 synchronized、wait/notify 和 join()。",
+      "kind": "报告",
+      "path": "materials/java/实验6：线程同步与联合.docx",
+      "source": "大二上/大二上 java/实验/2404060404-梁震宇-实验6.docx",
+      "size": 105950,
+      "sha256": "648df800f03771da0e0755c9d78fd991b169afcb2727cad2b8a1c33a803de7e8"
+    },
+    {
+      "course": "java",
+      "title": "实验7：输入输出流与学生通信录",
+      "description": "实现通信录增删改查，并用文件保存和读取学生记录。",
+      "kind": "报告",
+      "path": "materials/java/实验7：输入输出流与学生通信录.docx",
+      "source": "大二上/大二上 java/实验/2404060404-梁震宇-实验7.docx",
+      "size": 140381,
+      "sha256": "bebef7563e83a95fef24fa8c4bc866571669584db724a476f26edc5ef0f8b73f"
+    },
+    {
+      "course": "java",
+      "title": "实验8：文件分割与合并",
+      "description": "按份数拆分文件，再按顺序合并，练习字节流与完整性检查。",
+      "kind": "报告",
+      "path": "materials/java/实验8：文件分割与合并.docx",
+      "source": "大二上/大二上 java/实验/2404060404-梁震宇-实验8.docx",
+      "size": 106514,
+      "sha256": "4b7207025d850350eadbea2950c0b1d82e719f8f509e2900a98ab166cbd7a3d4"
+    },
+    {
+      "course": "java",
+      "title": "报告样本：类与对象",
+      "description": "课程提供的报告样本，包含学生类与机动车类练习，可参考表格结构。",
+      "kind": "模板样本",
+      "path": "materials/java/报告样本：类与对象.doc",
+      "source": "大二上/大二上 java/实验/学号-姓名（报告样本）实验1-java.doc",
+      "size": 75776,
+      "sha256": "e984459b78f374692c8ff5b407cca5138fe1090519119bfbeaaa8617ac633bb7"
+    },
+    {
+      "course": "data-structures",
+      "title": "实验1：线性表的建立及基本操作",
+      "description": "实现顺序表和单链表的增删改查，并应用于校内竞赛报名系统。",
+      "kind": "报告",
+      "path": "materials/data-structures/实验1：线性表的建立及基本操作.docx",
+      "source": "大二上/大二上 数据结构/实验/2404060404-梁震宇-实验1.docx",
+      "size": 526347,
+      "sha256": "0a493ec0aad8af0a8dec4a62f7cef6e1ae0ea7e72fd8694e8a3f7a0f4576cff4"
+    },
+    {
+      "course": "data-structures",
+      "title": "线性表实验：另一份存档",
+      "description": "与实验1主题相同，源目录中另存的一份报告，保留供对照。",
+      "kind": "报告",
+      "path": "materials/data-structures/线性表实验：另一份存档.docx",
+      "source": "大二上/大二上 数据结构/实验/2404060404 梁震宇 实验.docx",
+      "size": 1227056,
+      "sha256": "237a357c12149c631d11c0616de24ef7c7978806f417d380d8c61541c120a759"
+    },
+    {
+      "course": "data-structures",
+      "title": "实验2：二叉树的建立、遍历及应用",
+      "description": "实现前序、中序、后序遍历，统计结点、叶子与深度，并设计家谱管理。",
+      "kind": "报告",
+      "path": "materials/data-structures/实验2：二叉树的建立、遍历及应用.docx",
+      "source": "大二上/大二上 数据结构/实验/2404060404-梁震宇-实验2.docx",
+      "size": 221182,
+      "sha256": "04466b6b35daf59f3e4a26ce114d56805295dc12a3e4be804a4178eb358d2f8c"
+    },
+    {
+      "course": "data-structures",
+      "title": "实验3：图的建立、遍历及应用",
+      "description": "练习图的存储、深度优先和广度优先遍历，以及最短路径应用。",
+      "kind": "报告",
+      "path": "materials/data-structures/实验3：图的建立、遍历及应用.docx",
+      "source": "大二上/大二上 数据结构/实验/2404060404-梁震宇-实验3.docx",
+      "size": 244908,
+      "sha256": "b8dfc13b6e45a6e727501c20c68bdfff8bc815c56cd989ecceb5f8d6f4c64d20"
+    },
+    {
+      "course": "data-structures",
+      "title": "实验4：排序方法的比较",
+      "description": "比较插入、冒泡、快速和选择排序；题目要求中还列有堆排序与归并排序。",
+      "kind": "报告",
+      "path": "materials/data-structures/实验4：排序方法的比较.docx",
+      "source": "大二上/大二上 数据结构/实验/2404060404-梁震宇-实验4.docx",
+      "size": 390658,
+      "sha256": "0d5313906102e876d12c02dd409d4942f11665d195ba40b3be5cc28c135671e2"
+    },
+    {
+      "course": "computer-organization",
+      "title": "实验1存档：存储器实验",
+      "description": "正文为 RAM、MAR、MDR 的读写控制和 ALU 结果存取，按正文归为存储器实验。",
+      "kind": "报告",
+      "path": "materials/computer-organization/实验1存档：存储器实验.doc",
+      "source": "大二上/大二上 计组/实验/2404060404-梁震宇-实验1.doc",
+      "size": 1785856,
+      "sha256": "5389dcacc3282dd93fa110560dabcce5ced1bba4b480ddce48b363a26b8a6fff"
+    },
+    {
+      "course": "computer-organization",
+      "title": "实验2：存储器读写与数据通路",
+      "description": "正文讨论 256×8 RAM、MAR/MDR 和 ALU 数据交换；封面仍写“寄存器与运算器”，与正文不一致。",
+      "kind": "报告",
+      "path": "materials/computer-organization/实验2：存储器读写与数据通路.docx",
+      "source": "大二上/大二上 计组/实验/2404060404-梁震宇-实验2.docx",
+      "size": 431013,
+      "sha256": "e52a4149d09e09c66299a057da2f8acff321b1b5f4eb0c35d22b43e202e16eb6"
+    },
+    {
+      "course": "computer-organization",
+      "title": "实验3：指令部件与 PC",
+      "description": "将 PC、IR、寄存器组、ALU 和存储器连接起来，设计取指与执行通路。",
+      "kind": "报告",
+      "path": "materials/computer-organization/实验3：指令部件与 PC.docx",
+      "source": "大二上/大二上 计组/实验/2404060404-梁震宇-实验3.docx",
+      "size": 1346980,
+      "sha256": "5c18bb943c8608df387b4b8622895bc1751b584fac494b3a026ca036deadff8a"
+    },
+    {
+      "course": "computer-organization",
+      "title": "实验4：指令与微指令系统设计",
+      "description": "基于 COP2000 设计指令系统和微程序，观察传送、运算、跳转等指令的执行。",
+      "kind": "报告",
+      "path": "materials/computer-organization/实验4：指令与微指令系统设计.doc",
+      "source": "大二上/大二上 计组/实验/2404060404-梁震宇-实验4.doc",
+      "size": 759296,
+      "sha256": "6507849fc7c547af35477acbb027b7a9538595273a514d810f043a518bbf87ff"
+    },
+    {
+      "course": "computer-organization",
+      "title": "大作业：存储器组织、运算方法与指令扩展",
+      "description": "综合讨论存储器组织、运算器和指令系统，适合参考大作业的分析结构。",
+      "kind": "报告",
+      "path": "materials/computer-organization/大作业：存储器组织、运算方法与指令扩展.doc",
+      "source": "大二上/大二上 计组/实验/2404060404-梁震宇-计算机组成原理大作业A.doc",
+      "size": 225792,
+      "sha256": "d6144b111b4ad23fff107b3e2aa391280d947a0fb859d0f3c4756634b4b15c32"
+    },
+    {
+      "course": "database",
+      "title": "大作业：水果商城数据库设计",
+      "description": "围绕水果商城进行需求分析、关系建模、表结构与约束设计，涉及购物车、订单、库存及评价。",
+      "kind": "报告",
+      "path": "materials/database/大作业：水果商城数据库设计.docx",
+      "source": "大二上/大二上 数据库/大作业/数据库作业 2404060404 梁震宇.docx",
+      "size": 773344,
+      "sha256": "3f40f8299d783b15d55718671e995883f3cb52ca1ef4ef66cf44656e10300958"
+    },
+    {
+      "course": "db-java",
+      "title": "课程设计报告：水果销售管理系统",
+      "description": "包含需求、系统与数据库设计、编码运行、测试及总结，业务重点为进货、销售和库存管理。",
+      "kind": "报告",
+      "path": "materials/db-java/课程设计报告：水果销售管理系统.docx",
+      "source": "大二上/大二上 db-java 实验/2025秋-24级-课程设计（DB-Java）-报告.docx",
+      "size": 1668865,
+      "sha256": "ea62025e92737fd6881824b7b42cb34d813b4e05e09bcbb4c895d0d67035c2c7"
+    },
+    {
+      "course": "db-java",
+      "title": "课程设计任务书",
+      "description": "说明项目目标、工作计划、技术环境及小组分工，可参考任务书结构。",
+      "kind": "报告",
+      "path": "materials/db-java/课程设计任务书.docx",
+      "source": "大二上/大二上 db-java 实验/2025秋-24级-课程设计（DB-Java）-任务书.docx",
+      "size": 20010,
+      "sha256": "010c30f885e28037707853675756562ce44f54d6938d993eceb2e1d829bc7e35"
+    },
+    {
+      "course": "db-java",
+      "title": "开发进度日志与小组研讨记录",
+      "description": "按日期记录开发活动、问题、工时和讨论过程，适合作为过程文档格式参考。",
+      "kind": "报告",
+      "path": "materials/db-java/开发进度日志与小组研讨记录.doc",
+      "source": "大二上/大二上 db-java 实验/2025秋-24级-课程设计DB-java-日志+小组研讨记录.doc",
+      "size": 131072,
+      "sha256": "823aadf5a932ef31509e1e23c7c2ea656b5f41764c38306a7b8e8b7ce51b1b99"
+    },
+    {
+      "course": "db-java",
+      "title": "课程设计题目及要求",
+      "description": "课程原始要求，说明综合运用关系模型、SQL 和 Java 开发管理信息系统的目标及交付内容。",
+      "kind": "课程要求",
+      "path": "materials/db-java/课程设计题目及要求.docx",
+      "source": "大二上/大二上 db-java 实验/2025秋-24级-课程设计（DB-Java）-题目及要求.docx",
+      "size": 26173,
+      "sha256": "023418d45413ac916c8468c088edb4b58ea484fc70325420a13e52067525476d"
+    },
+    {
+      "course": "operating-systems",
+      "title": "实验1—2：进程同步与进程调度",
+      "description": "用信号量实现生产者—消费者，并模拟先来先服务、短进程优先等调度算法。",
+      "kind": "报告",
+      "path": "materials/operating-systems/实验1—2：进程同步与进程调度.doc",
+      "source": "大二下/操作系统/2404060404-梁震宇OSLab12.doc",
+      "size": 1996800,
+      "sha256": "15ff6bf30482e8acd7bc92d9f2808359845c3931c5c998d3199b3e148a32d8e5"
+    },
+    {
+      "course": "operating-systems",
+      "title": "实验3—4：页面置换与磁盘调度",
+      "description": "实现 LRU 页面置换，统计缺页率；模拟磁盘调度并比较寻道距离。",
+      "kind": "报告",
+      "path": "materials/operating-systems/实验3—4：页面置换与磁盘调度.docx",
+      "source": "大二下/操作系统/2404060404-梁震宇-OSlab34.docx",
+      "size": 542756,
+      "sha256": "21013be61f0e5110c9f0e29e1e01a95884166ae9eaf90258c67fd6b8499c90dc"
+    },
+    {
+      "course": "operating-systems",
+      "title": "课程设计：进程调度机制设计",
+      "description": "使用 Python / PyQt5 模拟进程控制、资源管理和 FCFS、SJF、RR、EDF、RMS 调度，展示甘特图与性能比较。",
+      "kind": "报告",
+      "path": "materials/operating-systems/课程设计：进程调度机制设计.docx",
+      "source": "大二下/操作系统/1组_进程管理/1组_进程管理-课程设计报告.docx",
+      "size": 637004,
+      "sha256": "80294750f745e6acf7f6d562142843ebb024a4914351a6f35e8926f9877217d9"
+    },
+    {
+      "course": "networks",
+      "title": "计算机网络实验报告",
+      "description": "从交换机、路由器基本配置开始，记录网络拓扑、地址配置及连通性验证。",
+      "kind": "报告",
+      "path": "materials/networks/计算机网络实验报告.doc",
+      "source": "大二下/计网/2404060404-梁震宇-计算机网络实验报告.doc",
+      "size": 6904832,
+      "sha256": "bdea14cd430dbdf8c0f25b434edfda107221ce8d5b0ff7cd724958898efe0833"
+    },
+    {
+      "course": "networks",
+      "title": "大作业：C++ Socket 与 HTTP 报文解析",
+      "description": "直接建立 TCP 连接，构造 HTTP 请求，接收并拆分响应，分析状态行、响应头及消息体。",
+      "kind": "报告",
+      "path": "materials/networks/大作业：C++ Socket 与 HTTP 报文解析.doc",
+      "source": "大二下/计网/2026春-软件24级-计算机网络-大作业2404060404 梁震宇.doc",
+      "size": 2094592,
+      "sha256": "a8765429cb0e304e6c3742841a2436c13c805c68158ed1d7c90d8fe06fe42eef"
+    },
+    {
+      "course": "networks",
+      "title": "大作业：Python Socket 天气查询",
+      "description": "手工发送 HTTP 请求并解析天气 JSON，讨论分块传输、网络拓扑、NAT、DNS 与地址规划。",
+      "kind": "报告",
+      "path": "materials/networks/大作业：Python Socket 天气查询.docx",
+      "source": "大二下/计网/2026春_计算机网络大作业_2404060404_梁震宇.docx",
+      "size": 34906,
+      "sha256": "bc005ceb5da3d14b9e3ddb81823e4e84f73ac1a4d0ce1acb61ca9b2628d1d718"
+    },
+    {
+      "course": "systems-analysis",
+      "title": "实验1—4：水果商城系统分析与建模",
+      "description": "从需求和用例分析到领域类模型、顺序图及用例实现，练习 UML 分析与设计。",
+      "kind": "报告",
+      "path": "materials/systems-analysis/实验1—4：水果商城系统分析与建模.docx",
+      "source": "大二下/系统分析与设计/2404060404 梁震宇 系统分析与设计实验1-4.docx",
+      "size": 1991202,
+      "sha256": "c69728a0f8b703387b809547d264ea25a8ee271571161a145502cbe107958849"
+    },
+    {
+      "course": "systems-analysis",
+      "title": "课设总报告：汽车租赁推荐系统",
+      "description": "FastAPI、SQLite 与原生网页构成租车系统，覆盖七维推荐、订单流转、权限、计价、地图与测试。",
+      "kind": "报告",
+      "path": "materials/systems-analysis/课设总报告：汽车租赁推荐系统.docx",
+      "source": "大三上/系分课设/所有word/汽车租赁推荐系统_系统分析与设计课程设计报告.docx",
+      "size": 9101233,
+      "sha256": "eb95f4b6839600fafbc4c008449d3f8bf32fd8fbc9de6217c3d41d7dc04788aa"
+    },
+    {
+      "course": "systems-analysis",
+      "title": "汽车租赁：课程设计任务书",
+      "description": "列出课程演示系统的建设范围、时间安排和小组职责。",
+      "kind": "报告",
+      "path": "materials/systems-analysis/汽车租赁：课程设计任务书.docx",
+      "source": "大三上/系分课设/所有word/02_汽车租赁推荐系统_课程设计任务书.docx",
+      "size": 22133,
+      "sha256": "74ff9f8d125a0bb6bbee0938f5fb9045d25e0b9c179966c3ee42077fa68f3751"
+    },
+    {
+      "course": "systems-analysis",
+      "title": "汽车租赁：需求分析",
+      "description": "明确业务边界、数据字典、功能、性能和运行需求。",
+      "kind": "报告",
+      "path": "materials/systems-analysis/汽车租赁：需求分析.docx",
+      "source": "大三上/系分课设/所有word/03_汽车租赁推荐系统_需求分析.docx",
+      "size": 1366572,
+      "sha256": "cb82f07cedde99ed6e07d77ee2043db7d3929cb1b8d4c0d1299a6774eb4bd00b"
+    },
+    {
+      "course": "systems-analysis",
+      "title": "汽车租赁：概要设计",
+      "description": "描述总体结构、模块职责、接口、数据结构、运行与异常处理。",
+      "kind": "报告",
+      "path": "materials/systems-analysis/汽车租赁：概要设计.docx",
+      "source": "大三上/系分课设/所有word/04_汽车租赁推荐系统_概要设计.docx",
+      "size": 1544405,
+      "sha256": "774686d121e74ff27cac2e2cd8fd317618e657f2f6e1c138c2a0e5c65da813ff"
+    },
+    {
+      "course": "systems-analysis",
+      "title": "汽车租赁：详细设计",
+      "description": "细化认证、推荐、订单和管理模块的算法、接口、程序逻辑及测试要点。",
+      "kind": "报告",
+      "path": "materials/systems-analysis/汽车租赁：详细设计.docx",
+      "source": "大三上/系分课设/所有word/05_汽车租赁推荐系统_详细设计.docx",
+      "size": 960617,
+      "sha256": "19167dd79032db25ab7ea3fd2921f6b2884d15a4715f65696b798f1491cb2cc9"
+    },
+    {
+      "course": "systems-analysis",
+      "title": "汽车租赁：开发进度日志",
+      "description": "记录需求、开发、测试和文档整合过程，可参考项目过程记录的组织方式。",
+      "kind": "报告",
+      "path": "materials/systems-analysis/汽车租赁：开发进度日志.docx",
+      "source": "大三上/系分课设/所有word/06_汽车租赁推荐系统_开发进度日志.docx",
+      "size": 29721,
+      "sha256": "b71939b8a5a4f7874c2110bd3e2b36ce3d6f9109a0eeb78d65b2aff8a69761e1"
+    },
+    {
+      "course": "algorithms",
+      "title": "实验1—2：递归分治与动态规划",
+      "description": "包含二分搜索、较轻假币识别、数字塔和天平平衡问题，记录算法、复杂度、代码与样例结果。",
+      "kind": "报告",
+      "path": "materials/algorithms/实验1—2：递归分治与动态规划.docx",
+      "source": "大三上/算法实验/2404060404-梁震宇-算法lab12.docx",
+      "size": 801193,
+      "sha256": "a9ea98e067d0015fe3bf39438ad7f05ac520ba1660135ce39ee2a8a3d4a5e056"
+    },
+    {
+      "course": "architecture",
+      "title": "大作业：机场管理系统持续服务与演化架构设计",
+      "description": "覆盖质量属性、服务边界、稳定接口、设计模式、不停机更新、兼容迁移与失败回退。",
+      "kind": "报告",
+      "path": "materials/architecture/大作业：机场管理系统持续服务与演化架构设计.docx",
+      "source": "大三上/软件体系结构与设计模式大作业/2404060404梁震宇.docx",
+      "size": 338652,
+      "sha256": "f401a4638db7a0b6dc3343f326a870414e4afaafa5f040857b7c4f2f9dc3ad28"
+    },
+    {
+      "course": "algorithms",
+      "title": "算法实验报告模板",
+      "description": "课程表格模板，可替换个人信息并按自己的实验填写。",
+      "kind": "模板样本",
+      "path": "materials/algorithms/算法实验报告模板.docx",
+      "source": "大三上/算法实验/证据/课件及模板/算法实验报告模板.docx",
+      "size": 21122,
+      "sha256": "a11e407663b0fea25826e7220bd2cb5b7ad231e8709ea5894d068435a1d21b91"
+    },
+    {
+      "course": "architecture",
+      "title": "体系结构大作业封皮",
+      "description": "课程封面模板。",
+      "kind": "模板样本",
+      "path": "materials/architecture/体系结构大作业封皮.docx",
+      "source": "大三上/软件体系结构与设计模式大作业/证据/软件24-4_软件体系结构与设计模式大作业封皮.docx",
+      "size": 62269,
+      "sha256": "0246a85bfd79c45b47b8a3648f35f4831800e006ee7e1c389a102e8ac589ce7b"
+    },
+    {
+      "course": "architecture",
+      "title": "体系结构正文格式参考",
+      "description": "用于参考正文排版。",
+      "kind": "模板样本",
+      "path": "materials/architecture/体系结构正文格式参考.docx",
+      "source": "大三上/软件体系结构与设计模式大作业/证据/正文格式参考.docx",
+      "size": 326651,
+      "sha256": "90cf5d7bc298f2e4a45d8426b2b91044ac7987739f1b222a07b949b18f87f6f1"
+    },
+    {
+      "course": "computer-organization",
+      "title": "寄存器与运算器报告模板",
+      "description": "课程提供的寄存器与运算器实验报告样本。",
+      "kind": "模板样本",
+      "path": "materials/computer-organization/寄存器与运算器报告模板.docx",
+      "source": "大二上/大二上 计组/实验/计组课程组版-实验/1_实验1-寄存器与运算器实验-实验报告.docx",
+      "size": 135571,
+      "sha256": "33e91c7deb3857a6928ab9e85b5a48c5c3ae5b328b4ee8600e264a66da26f0fc"
+    },
+    {
+      "course": "algorithms",
+      "title": "源码_balance",
+      "description": "原材料附带的独立 C++ 程序，使用前请自行编译验证。",
+      "kind": "源码",
+      "path": "materials/algorithms/源码_balance.cpp",
+      "source": "大三上/算法实验/证据/程序源码/balance.cpp",
+      "size": 841,
+      "sha256": "571625f84b1fa684d3909b3ac5c92e65bccb4179dbe785bfa6e9980f182e5d58"
+    },
+    {
+      "course": "algorithms",
+      "title": "源码_binary",
+      "description": "原材料附带的独立 C++ 程序，使用前请自行编译验证。",
+      "kind": "源码",
+      "path": "materials/algorithms/源码_binary.cpp",
+      "source": "大三上/算法实验/证据/程序源码/binary.cpp",
+      "size": 806,
+      "sha256": "09e8da8f6a37dc1c2ac3970d2fadbeabee3cc19cc728aad7906b9cb9bbe0beda"
+    },
+    {
+      "course": "algorithms",
+      "title": "源码_coin",
+      "description": "原材料附带的独立 C++ 程序，使用前请自行编译验证。",
+      "kind": "源码",
+      "path": "materials/algorithms/源码_coin.cpp",
+      "source": "大三上/算法实验/证据/程序源码/coin.cpp",
+      "size": 1001,
+      "sha256": "0bd6e1d381675bdb2986cb83ceab96200bb74ae7ae22fa1e8225f98e1a340872"
+    },
+    {
+      "course": "algorithms",
+      "title": "源码_torque",
+      "description": "原材料附带的独立 C++ 程序，使用前请自行编译验证。",
+      "kind": "源码",
+      "path": "materials/algorithms/源码_torque.cpp",
+      "source": "大三上/算法实验/证据/程序源码/torque.cpp",
+      "size": 848,
+      "sha256": "d4c15f2adfd0d6658f1197669d8b1cb6ebb646e33bf3e654c2beadb2aa9ea0c2"
+    },
+    {
+      "course": "algorithms",
+      "title": "源码_tower",
+      "description": "原材料附带的独立 C++ 程序，使用前请自行编译验证。",
+      "kind": "源码",
+      "path": "materials/algorithms/源码_tower.cpp",
+      "source": "大三上/算法实验/证据/程序源码/tower.cpp",
+      "size": 1268,
+      "sha256": "7a586ce72b48201846adaf952f6d41ec2258c46ba1f356112d662a338a84a64f"
+    },
+    {
+      "course": "operating-systems",
+      "title": "进程调度源码：demo.py",
+      "description": "课程设计原始源码包中的文件；已去除 __pycache__，运行方法请结合 main.py 与 requirements.txt。",
+      "kind": "源码",
+      "path": "materials/operating-systems/source/demo.py",
+      "source": "大二下/操作系统/1组_进程管理/源代码.zip!/demo.py",
+      "size": 5259,
+      "sha256": "b6da680ab4818cd54d389f167617420dd8e3c853985ead04458422792b0ab9ac"
+    },
+    {
+      "course": "operating-systems",
+      "title": "进程调度源码：gui.py",
+      "description": "课程设计原始源码包中的文件；已去除 __pycache__，运行方法请结合 main.py 与 requirements.txt。",
+      "kind": "源码",
+      "path": "materials/operating-systems/source/gui.py",
+      "source": "大二下/操作系统/1组_进程管理/源代码.zip!/gui.py",
+      "size": 34328,
+      "sha256": "eb8a6488d30aa6deb0d75eff4502c7d64eb43b8c2976036419859faa1959168c"
+    },
+    {
+      "course": "operating-systems",
+      "title": "进程调度源码：main.py",
+      "description": "课程设计原始源码包中的文件；已去除 __pycache__，运行方法请结合 main.py 与 requirements.txt。",
+      "kind": "源码",
+      "path": "materials/operating-systems/source/main.py",
+      "source": "大二下/操作系统/1组_进程管理/源代码.zip!/main.py",
+      "size": 2008,
+      "sha256": "012c125143f1b3f0f830fe8812c215112f457c185ff455426238064356796b36"
+    },
+    {
+      "course": "operating-systems",
+      "title": "进程调度源码：pcb.py",
+      "description": "课程设计原始源码包中的文件；已去除 __pycache__，运行方法请结合 main.py 与 requirements.txt。",
+      "kind": "源码",
+      "path": "materials/operating-systems/source/pcb.py",
+      "source": "大二下/操作系统/1组_进程管理/源代码.zip!/pcb.py",
+      "size": 4353,
+      "sha256": "609dbc7430ba5f3a2bae34af4a8da45c24d0969910f3453a58de12d551891390"
+    },
+    {
+      "course": "operating-systems",
+      "title": "进程调度源码：performance.py",
+      "description": "课程设计原始源码包中的文件；已去除 __pycache__，运行方法请结合 main.py 与 requirements.txt。",
+      "kind": "源码",
+      "path": "materials/operating-systems/source/performance.py",
+      "source": "大二下/操作系统/1组_进程管理/源代码.zip!/performance.py",
+      "size": 7302,
+      "sha256": "916a3462a1cebe6cc8d17660a92c3208f6c644af73a42a430a0a3b8716f88d8e"
+    },
+    {
+      "course": "operating-systems",
+      "title": "进程调度源码：process_manager.py",
+      "description": "课程设计原始源码包中的文件；已去除 __pycache__，运行方法请结合 main.py 与 requirements.txt。",
+      "kind": "源码",
+      "path": "materials/operating-systems/source/process_manager.py",
+      "source": "大二下/操作系统/1组_进程管理/源代码.zip!/process_manager.py",
+      "size": 7798,
+      "sha256": "dab0d6500a17ff230a8c86f2aa2b93f43062afea0963d86723eec3781c6fa902"
+    },
+    {
+      "course": "operating-systems",
+      "title": "进程调度源码：requirements.txt",
+      "description": "课程设计原始源码包中的文件；已去除 __pycache__，运行方法请结合 main.py 与 requirements.txt。",
+      "kind": "源码",
+      "path": "materials/operating-systems/source/requirements.txt",
+      "source": "大二下/操作系统/1组_进程管理/源代码.zip!/requirements.txt",
+      "size": 114,
+      "sha256": "5881d283a81fd3020c52e947e086161db62566eeeb9d5ad345a4667d687bae94"
+    },
+    {
+      "course": "operating-systems",
+      "title": "进程调度源码：resource_manager.py",
+      "description": "课程设计原始源码包中的文件；已去除 __pycache__，运行方法请结合 main.py 与 requirements.txt。",
+      "kind": "源码",
+      "path": "materials/operating-systems/source/resource_manager.py",
+      "source": "大二下/操作系统/1组_进程管理/源代码.zip!/resource_manager.py",
+      "size": 5748,
+      "sha256": "d2dbd68a1b9d8666b10e9e46881161a7aef6f26d0f458fc3e197af7ca31ece6a"
+    },
+    {
+      "course": "operating-systems",
+      "title": "进程调度源码：scheduler.py",
+      "description": "课程设计原始源码包中的文件；已去除 __pycache__，运行方法请结合 main.py 与 requirements.txt。",
+      "kind": "源码",
+      "path": "materials/operating-systems/source/scheduler.py",
+      "source": "大二下/操作系统/1组_进程管理/源代码.zip!/scheduler.py",
+      "size": 19845,
+      "sha256": "cd6e697d825893f4a6f93a6d110ce3c98d47161dac280544ec30947c31a761f1"
+    },
+    {
+      "course": "operating-systems",
+      "title": "进程调度源码：test_core.py",
+      "description": "课程设计原始源码包中的文件；已去除 __pycache__，运行方法请结合 main.py 与 requirements.txt。",
+      "kind": "源码",
+      "path": "materials/operating-systems/source/test_core.py",
+      "source": "大二下/操作系统/1组_进程管理/源代码.zip!/test_core.py",
+      "size": 2470,
+      "sha256": "1f1e3472cf2e38fbab09fce4fbf2a07bda3d9f1aac05679b960e2762d228d753"
+    }
+  ]
+}

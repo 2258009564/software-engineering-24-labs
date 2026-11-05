@@ -1,0 +1,4 @@
+# 进程调度机制设计系统 — 依赖说明
+# 安装命令：pip install -r requirements.txt
+
+PyQt5>=5.15.0
